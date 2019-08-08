@@ -1,0 +1,75 @@
+/* You can add global styles to this file, and also import other style files */
+/*.card{
+    width: 250px;
+    border-radius: 5%;
+    height:50%;
+    text-align: center;
+}
+.card:hover { transform: scale(1.05); 
+    text-decoration: none;}
+.card-img-top{
+    width:150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top:5px;
+
+}
+a:hover{
+    text-decoration: none;
+    color:'black'
+}
+.headingh1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #28346c;
+}
+.main_heading{
+    text-align: center
+}
+.searchBox{
+   margin: 0 auto;
+}
+.flag{
+    margin-top: -30px;
+}
+.country{
+    color: #1f0867;
+}
+.city_name{
+    text-decoration: none;
+    color:black
+}*/
+
+.card{
+    width: 250px;
+    border-radius: 5%;
+    height:50%;
+}
+.card:hover { transform: scale(1.05); }
+.card-img-top{
+    width:250px;
+    height: 15vw;
+    border-radius: 5%;
+
+}
+
+.headingh1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #28346c;
+}
+.main_heading{
+    text-align: center
+}
+.searchBox{
+   margin: 0 auto;
+}
+
+a:hover{
+    text-decoration: none;
+    color:'black'
+}
+.city_name{
+    text-decoration: none;
+    color:black
+}

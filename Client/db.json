@@ -1,0 +1,46 @@
+{
+    "city":[
+      {
+        "name": "Seoul",
+        "country": "South Korea",
+        "population": 39800000,
+        "url": "https://en.wikipedia.org/wiki/Greater_Tokyo_Area",
+        "description": "The Greater Tokyo Area is the most populous metropolitan area in the world, consisting of the Kantō region of Japan, including the Tokyo Metropolis, as well as the prefecture of Yamanashi of the neighboring Chūbu region. In Japanese, it is referred to by various terms, one of the most common being National Capital Region (首都圏, Shuto-ken)."
+      },
+      {
+        "name": "Shanghai",
+        "country": "China",
+        "population": 28900000,
+        "url": "https://en.wikipedia.org/wiki/Jakarta",
+        "description": "Jakarta Indonesian pronunciation, officially the Special Capital Region of Jakarta (Indonesian: Daerah Khusus Ibu Kota Jakarta), is the capital and largest city of Indonesia. Located on the northwest coast of the world's most populous island Java, it is the centre of economics, culture and politics of Indonesia, with a population of 10,075,310 as of 2014[update].[6][8] The Greater Jakarta metropolitan area, known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest urban agglomeration and 2nd largest urban area in the world after Tokyo, with a population of 30,214,303 as of 2010[update] census.[9] Jakarta's business opportunities, as well as its potential to offer a higher standard of living, attract migrants from all over the Indonesian archipelago, making it a melting pot of many communities and cultures.[10] Jakarta is officially a province with special capital region status, but is commonly referred to as a city. The Jakarta provincial government consists of five administrative cities and one administrative regency."
+      },
+    {
+        "name": "Delhi",
+        "country": "India",
+        "population": 39800000,
+        "url": "https://en.wikipedia.org/wiki/Greater_Tokyo_Area",
+        "description": "The Greater Tokyo Area is the most populous metropolitan area in the world, consisting of the Kantō region of Japan, including the Tokyo Metropolis, as well as the prefecture of Yamanashi of the neighboring Chūbu region. In Japanese, it is referred to by various terms, one of the most common being National Capital Region (首都圏, Shuto-ken)."
+      },
+      {
+        "name": "Karachi",
+        "country": "Pakistan",
+        "population": 28900000,
+        "url": "https://en.wikipedia.org/wiki/Jakarta",
+        "description": "Jakarta Indonesian pronunciation, officially the Special Capital Region of Jakarta (Indonesian: Daerah Khusus Ibu Kota Jakarta), is the capital and largest city of Indonesia. Located on the northwest coast of the world's most populous island Java, it is the centre of economics, culture and politics of Indonesia, with a population of 10,075,310 as of 2014[update].[6][8] The Greater Jakarta metropolitan area, known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest urban agglomeration and 2nd largest urban area in the world after Tokyo, with a population of 30,214,303 as of 2010[update] census.[9] Jakarta's business opportunities, as well as its potential to offer a higher standard of living, attract migrants from all over the Indonesian archipelago, making it a melting pot of many communities and cultures.[10] Jakarta is officially a province with special capital region status, but is commonly referred to as a city. The Jakarta provincial government consists of five administrative cities and one administrative regency."
+      },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "population": 39800000,
+      "url": "https://en.wikipedia.org/wiki/Greater_Tokyo_Area",
+      "description": "The Greater Tokyo Area is the most populous metropolitan area in the world, consisting of the Kantō region of Japan, including the Tokyo Metropolis, as well as the prefecture of Yamanashi of the neighboring Chūbu region. In Japanese, it is referred to by various terms, one of the most common being National Capital Region (首都圏, Shuto-ken)."
+    },
+    {
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "population": 28900000,
+      "url": "https://en.wikipedia.org/wiki/Jakarta",
+      "description": "Jakarta Indonesian pronunciation, officially the Special Capital Region of Jakarta (Indonesian: Daerah Khusus Ibu Kota Jakarta), is the capital and largest city of Indonesia. Located on the northwest coast of the world's most populous island Java, it is the centre of economics, culture and politics of Indonesia, with a population of 10,075,310 as of 2014[update].[6][8] The Greater Jakarta metropolitan area, known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest urban agglomeration and 2nd largest urban area in the world after Tokyo, with a population of 30,214,303 as of 2010[update] census.[9] Jakarta's business opportunities, as well as its potential to offer a higher standard of living, attract migrants from all over the Indonesian archipelago, making it a melting pot of many communities and cultures.[10] Jakarta is officially a province with special capital region status, but is commonly referred to as a city. The Jakarta provincial government consists of five administrative cities and one administrative regency."
+    }
+]
+}
