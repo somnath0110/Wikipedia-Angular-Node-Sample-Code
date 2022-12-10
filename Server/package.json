@@ -31,7 +31,7 @@
     "body-parser": "^1.13.3",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "html-table-to-json": "^0.4.0",
     "html-to-json-data": "^1.6.0",
     "morgan": "^1.8.0",
